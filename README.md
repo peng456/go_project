@@ -9,3 +9,6 @@ go 语言实战
 
 
 https://blog.csdn.net/wangshubo1989/article/details/78250790
+
+
+go 语言真恶心，简简单单的 json 都这么麻烦。
